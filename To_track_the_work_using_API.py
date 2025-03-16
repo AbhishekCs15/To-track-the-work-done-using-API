@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 
 url = "https://pixe.la/v1/users"
-USER_NAME = "unknow"
-TOKEN = "idshf3nd3nd8n39ds"
+USER_NAME = "your_own"
+TOKEN = "your_own"
 # headers is created for secure user connection(authentication)
 headers = {
     "X-USER-TOKEN": TOKEN,
